@@ -1,4 +1,9 @@
 one
 Hello
+<<<<<<< Updated upstream
 testing on my own
 Adding dark mode functionality
+=======
+
+Another feature
+>>>>>>> Stashed changes
